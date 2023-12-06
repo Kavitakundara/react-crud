@@ -1,0 +1,46 @@
+* {
+    margin: 0px 0px;
+    padding: 0px 0px;
+}
+
+.navbar-brand img {
+    width: 50px;
+}
+
+.navbar {
+    background: linear-gradient(338deg, #f33610, #b20a46);
+    border-bottom-right-radius: 56px;
+    width: 95%;
+    margin: 13px auto;
+    border-top-left-radius: 56px;
+    padding: 10px;
+}
+
+a.nav-link {
+    color: white;
+    font-size: 19px;
+    font-weight: 500;
+}
+
+li.nav-item a {
+    padding: 0px 20px;
+    color: white;
+    text-decoration: none;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td,
+th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
